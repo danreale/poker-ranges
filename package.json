@@ -1,6 +1,6 @@
 {
   "name": "poker-ranges",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "cli tool to help you make decisions",
   "main": "index.js",
   "scripts": {
