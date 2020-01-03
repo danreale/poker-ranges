@@ -1,8 +1,11 @@
 # Poker Ranges
 
+`mkdir poker`
+`cd poker`
+`npm init` - take all defaults
 `npm install poker-ranges`
-
-`npm run deal`
+In `package.json` file, add this to scripts: `"deal": "node ./node_modules/poker-ranges/js/runner.js"`
+To run the program - `npm run deal`
 
 RFI - how to play a hand when everyone folds to you
 RFI vs 3-bet - how to play when you are the first one to raise and someone who did not act yet, 3 bets you. (not implemented yet)
