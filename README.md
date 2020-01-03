@@ -35,4 +35,4 @@ RFI vs 3-bet - how to play when you are the first one to raise and someone who d
 
 Facing RFI - how to play when someone raised before you (not implemented yet)
 
-Credit to Jonathan Little for the inspiration to create this tool.
+***Credit to Jonathan Little for the free poker range charts and being an inspiration to create this tool.***
