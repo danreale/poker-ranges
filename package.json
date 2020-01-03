@@ -1,0 +1,23 @@
+{
+  "name": "poker-ranges",
+  "version": "1.0.0",
+  "description": "cli tool to help you make decisions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compilets": "tsc -p ./tsconfig.json;",
+    "deal": "node ./js/runner.js"
+  },
+  "keywords": [
+    "poker"
+  ],
+  "author": "Dan Reale",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^13.1.2",
+    "inquirer": "^7.0.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.7.4"
+  }
+}

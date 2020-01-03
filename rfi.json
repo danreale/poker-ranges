@@ -1,0 +1,1948 @@
+{
+  "utg": [
+    {
+      "Raise": "10.1",
+      "Fold": "89.9"
+    },
+    {
+      "hand": "AA",
+      "action": "Raise"
+    },
+    {
+      "hand": "KK",
+      "action": "Raise"
+    },
+    {
+      "hand": "QQ",
+      "action": "Raise"
+    },
+    {
+      "hand": "JJ",
+      "action": "Raise"
+    },
+    {
+      "hand": "TT",
+      "action": "Raise"
+    },
+    {
+      "hand": "99",
+      "action": "Raise"
+    },
+    {
+      "hand": "88",
+      "action": "Raise"
+    },
+    {
+      "hand": "77",
+      "action": "Raise"
+    },
+    {
+      "hand": "66",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "ATs",
+      "action": "Raise"
+    },
+    {
+      "hand": "A9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A5s",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "QJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "QTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "JTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "T9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "98s",
+      "action": "Raise"
+    }
+  ],
+  "utg1": [
+    {
+      "Raise": "14.3",
+      "Fold": "85.7"
+    },
+    {
+      "hand": "AA",
+      "action": "Raise"
+    },
+    {
+      "hand": "KK",
+      "action": "Raise"
+    },
+    {
+      "hand": "QQ",
+      "action": "Raise"
+    },
+    {
+      "hand": "JJ",
+      "action": "Raise"
+    },
+    {
+      "hand": "TT",
+      "action": "Raise"
+    },
+    {
+      "hand": "99",
+      "action": "Raise"
+    },
+    {
+      "hand": "88",
+      "action": "Raise"
+    },
+    {
+      "hand": "77",
+      "action": "Raise"
+    },
+    {
+      "hand": "66",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "ATs",
+      "action": "Raise"
+    },
+    {
+      "hand": "A9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A7s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A6s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A5s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A4s",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "K9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "QJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "QTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "JTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "J9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "T9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "98s",
+      "action": "Raise"
+    },
+    {
+      "hand": "87s",
+      "action": "Raise"
+    }
+  ],
+  "utg2": [
+    {
+      "Raise": "15.7",
+      "Fold": "84.3"
+    },
+    {
+      "hand": "AA",
+      "action": "Raise"
+    },
+    {
+      "hand": "KK",
+      "action": "Raise"
+    },
+    {
+      "hand": "QQ",
+      "action": "Raise"
+    },
+    {
+      "hand": "JJ",
+      "action": "Raise"
+    },
+    {
+      "hand": "TT",
+      "action": "Raise"
+    },
+    {
+      "hand": "99",
+      "action": "Raise"
+    },
+    {
+      "hand": "88",
+      "action": "Raise"
+    },
+    {
+      "hand": "77",
+      "action": "Raise"
+    },
+    {
+      "hand": "66",
+      "action": "Raise"
+    },
+    {
+      "hand": "55",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "ATs",
+      "action": "Raise"
+    },
+    {
+      "hand": "A9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A7s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A6s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A5s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A3s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A2s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A4s",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "K9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "QJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "QTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "JTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "J9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "T9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "98s",
+      "action": "Raise"
+    },
+    {
+      "hand": "87s",
+      "action": "Raise"
+    },
+    {
+      "hand": "76s",
+      "action": "Raise"
+    }
+  ],
+  "lojack": [
+    {
+      "Raise": "18.3",
+      "Fold": "81.7"
+    },
+    {
+      "hand": "AA",
+      "action": "Raise"
+    },
+    {
+      "hand": "KK",
+      "action": "Raise"
+    },
+    {
+      "hand": "QQ",
+      "action": "Raise"
+    },
+    {
+      "hand": "JJ",
+      "action": "Raise"
+    },
+    {
+      "hand": "TT",
+      "action": "Raise"
+    },
+    {
+      "hand": "99",
+      "action": "Raise"
+    },
+    {
+      "hand": "88",
+      "action": "Raise"
+    },
+    {
+      "hand": "77",
+      "action": "Raise"
+    },
+    {
+      "hand": "66",
+      "action": "Raise"
+    },
+    {
+      "hand": "55",
+      "action": "Raise"
+    },
+    {
+      "hand": "44",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "ATs",
+      "action": "Raise"
+    },
+    {
+      "hand": "A9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A7s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A6s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A5s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A3s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A2s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A4s",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "ATo",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "K9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "KJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "QJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "QTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "JTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "J9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "T9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "98s",
+      "action": "Raise"
+    },
+    {
+      "hand": "87s",
+      "action": "Raise"
+    },
+    {
+      "hand": "76s",
+      "action": "Raise"
+    },
+    {
+      "hand": "65s",
+      "action": "Raise"
+    }
+  ],
+  "hijack": [
+    {
+      "Raise": "21.3",
+      "Fold": "78.7"
+    },
+    {
+      "hand": "AA",
+      "action": "Raise"
+    },
+    {
+      "hand": "KK",
+      "action": "Raise"
+    },
+    {
+      "hand": "QQ",
+      "action": "Raise"
+    },
+    {
+      "hand": "JJ",
+      "action": "Raise"
+    },
+    {
+      "hand": "TT",
+      "action": "Raise"
+    },
+    {
+      "hand": "99",
+      "action": "Raise"
+    },
+    {
+      "hand": "88",
+      "action": "Raise"
+    },
+    {
+      "hand": "77",
+      "action": "Raise"
+    },
+    {
+      "hand": "66",
+      "action": "Raise"
+    },
+    {
+      "hand": "55",
+      "action": "Raise"
+    },
+    {
+      "hand": "44",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "ATs",
+      "action": "Raise"
+    },
+    {
+      "hand": "A9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A7s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A6s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A5s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A3s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A2s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A4s",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "ATo",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "K9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "K8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "KJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "QJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "QTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "QJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "JTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "J9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "T9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "T8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "98s",
+      "action": "Raise"
+    },
+    {
+      "hand": "97s",
+      "action": "Raise"
+    },
+    {
+      "hand": "87s",
+      "action": "Raise"
+    },
+    {
+      "hand": "76s",
+      "action": "Raise"
+    },
+    {
+      "hand": "65s",
+      "action": "Raise"
+    },
+    {
+      "hand": "54s",
+      "action": "Raise"
+    }
+  ],
+  "cutoff": [
+    {
+      "Raise": "27.0",
+      "Fold": "73.0"
+    },
+    {
+      "hand": "AA",
+      "action": "Raise"
+    },
+    {
+      "hand": "KK",
+      "action": "Raise"
+    },
+    {
+      "hand": "QQ",
+      "action": "Raise"
+    },
+    {
+      "hand": "JJ",
+      "action": "Raise"
+    },
+    {
+      "hand": "TT",
+      "action": "Raise"
+    },
+    {
+      "hand": "99",
+      "action": "Raise"
+    },
+    {
+      "hand": "88",
+      "action": "Raise"
+    },
+    {
+      "hand": "77",
+      "action": "Raise"
+    },
+    {
+      "hand": "66",
+      "action": "Raise"
+    },
+    {
+      "hand": "55",
+      "action": "Raise"
+    },
+    {
+      "hand": "44",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "ATs",
+      "action": "Raise"
+    },
+    {
+      "hand": "A9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A7s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A6s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A5s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A3s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A2s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A4s",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "ATo",
+      "action": "Raise"
+    },
+    {
+      "hand": "A9o",
+      "action": "Raise"
+    },
+    {
+      "hand": "A8o",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "K9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "K8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "K7s",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "KJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "KTo",
+      "action": "Raise"
+    },
+    {
+      "hand": "QJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "QTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "QJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "QTo",
+      "action": "Raise"
+    },
+    {
+      "hand": "JTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "J9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "J8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "JTo",
+      "action": "Raise"
+    },
+    {
+      "hand": "T9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "T8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "98s",
+      "action": "Raise"
+    },
+    {
+      "hand": "97s",
+      "action": "Raise"
+    },
+    {
+      "hand": "87s",
+      "action": "Raise"
+    },
+    {
+      "hand": "86s",
+      "action": "Raise"
+    },
+    {
+      "hand": "76s",
+      "action": "Raise"
+    },
+    {
+      "hand": "75s",
+      "action": "Raise"
+    },
+    {
+      "hand": "65s",
+      "action": "Raise"
+    },
+    {
+      "hand": "64s",
+      "action": "Raise"
+    },
+    {
+      "hand": "54s",
+      "action": "Raise"
+    },
+    {
+      "hand": "43s",
+      "action": "Raise"
+    }
+  ],
+  "button": [
+    {
+      "Raise": "51.1",
+      "Fold": "48.9"
+    },
+    {
+      "hand": "AA",
+      "action": "Raise"
+    },
+    {
+      "hand": "KK",
+      "action": "Raise"
+    },
+    {
+      "hand": "QQ",
+      "action": "Raise"
+    },
+    {
+      "hand": "JJ",
+      "action": "Raise"
+    },
+    {
+      "hand": "TT",
+      "action": "Raise"
+    },
+    {
+      "hand": "99",
+      "action": "Raise"
+    },
+    {
+      "hand": "88",
+      "action": "Raise"
+    },
+    {
+      "hand": "77",
+      "action": "Raise"
+    },
+    {
+      "hand": "66",
+      "action": "Raise"
+    },
+    {
+      "hand": "55",
+      "action": "Raise"
+    },
+    {
+      "hand": "44",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "ATs",
+      "action": "Raise"
+    },
+    {
+      "hand": "A9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A7s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A6s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A5s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A3s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A2s",
+      "action": "Raise"
+    },
+    {
+      "hand": "A4s",
+      "action": "Raise"
+    },
+    {
+      "hand": "AKo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "AJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "ATo",
+      "action": "Raise"
+    },
+    {
+      "hand": "A9o",
+      "action": "Raise"
+    },
+    {
+      "hand": "A8o",
+      "action": "Raise"
+    },
+    {
+      "hand": "A7o",
+      "action": "Raise"
+    },
+    {
+      "hand": "A6o",
+      "action": "Raise"
+    },
+    {
+      "hand": "A5o",
+      "action": "Raise"
+    },
+    {
+      "hand": "A4o",
+      "action": "Raise"
+    },
+    {
+      "hand": "A3o",
+      "action": "Raise"
+    },
+    {
+      "hand": "A2o",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "KTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "K9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "K8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "K7s",
+      "action": "Raise"
+    },
+    {
+      "hand": "K6s",
+      "action": "Raise"
+    },
+    {
+      "hand": "K5s",
+      "action": "Raise"
+    },
+    {
+      "hand": "K4s",
+      "action": "Raise"
+    },
+    {
+      "hand": "K3s",
+      "action": "Raise"
+    },
+    {
+      "hand": "K2s",
+      "action": "Raise"
+    },
+    {
+      "hand": "KQo",
+      "action": "Raise"
+    },
+    {
+      "hand": "KJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "KTo",
+      "action": "Raise"
+    },
+    {
+      "hand": "K9o",
+      "action": "Raise"
+    },
+    {
+      "hand": "K8o",
+      "action": "Raise"
+    },
+    {
+      "hand": "K7o",
+      "action": "Raise"
+    },
+    {
+      "hand": "QJs",
+      "action": "Raise"
+    },
+    {
+      "hand": "QTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q7s",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q6s",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q5s",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q4s",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q3s",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q2s",
+      "action": "Raise"
+    },
+    {
+      "hand": "QJo",
+      "action": "Raise"
+    },
+    {
+      "hand": "QTo",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q9o",
+      "action": "Raise"
+    },
+    {
+      "hand": "Q8o",
+      "action": "Raise"
+    },
+    {
+      "hand": "JTs",
+      "action": "Raise"
+    },
+    {
+      "hand": "J9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "J8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "JTo",
+      "action": "Raise"
+    },
+    {
+      "hand": "J9o",
+      "action": "Raise"
+    },
+    {
+      "hand": "J8o",
+      "action": "Raise"
+    },
+    {
+      "hand": "T9s",
+      "action": "Raise"
+    },
+    {
+      "hand": "T8s",
+      "action": "Raise"
+    },
+    {
+      "hand": "T7s",
+      "action": "Raise"
+    },
+    {
+      "hand": "T6s",
+      "action": "Raise"
+    },
+    {
+      "hand": "T9o",
+      "action": "Raise"
+    },
+    {
+      "hand": "T8o",
+      "action": "Raise"
+    },
+    {
+      "hand": "98s",
+      "action": "Raise"
+    },
+    {
+      "hand": "97s",
+      "action": "Raise"
+    },
+    {
+      "hand": "96s",
+      "action": "Raise"
+    },
+    {
+      "hand": "98o",
+      "action": "Raise"
+    },
+    {
+      "hand": "97o",
+      "action": "Raise"
+    },
+    {
+      "hand": "87s",
+      "action": "Raise"
+    },
+    {
+      "hand": "86s",
+      "action": "Raise"
+    },
+    {
+      "hand": "85s",
+      "action": "Raise"
+    },
+    {
+      "hand": "87o",
+      "action": "Raise"
+    },
+    {
+      "hand": "76s",
+      "action": "Raise"
+    },
+    {
+      "hand": "75s",
+      "action": "Raise"
+    },
+    {
+      "hand": "74s",
+      "action": "Raise"
+    },
+    {
+      "hand": "76o",
+      "action": "Raise"
+    },
+    {
+      "hand": "65s",
+      "action": "Raise"
+    },
+    {
+      "hand": "64s",
+      "action": "Raise"
+    },
+    {
+      "hand": "54s",
+      "action": "Raise"
+    },
+    {
+      "hand": "53s",
+      "action": "Raise"
+    },
+    {
+      "hand": "43s",
+      "action": "Raise"
+    },
+    {
+      "hand": "32s",
+      "action": "Raise"
+    }
+  ],
+  "sb": [
+    {
+      "Raise for Value": "8.9",
+      "Fold": "29.6",
+      "Raise as a Bluff": "13.0",
+      "Limp": "48.6"
+    },
+    {
+      "hand": "AA",
+      "action": "Limp"
+    },
+    {
+      "hand": "KK",
+      "action": "Limp"
+    },
+    {
+      "hand": "QQ",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "JJ",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "TT",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "99",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "88",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "77",
+      "action": "Limp"
+    },
+    {
+      "hand": "66",
+      "action": "Limp"
+    },
+    {
+      "hand": "55",
+      "action": "Limp"
+    },
+    {
+      "hand": "44",
+      "action": "Limp"
+    },
+    {
+      "hand": "AKs",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "AQs",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "AJs",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "ATs",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "A9s",
+      "action": "Limp"
+    },
+    {
+      "hand": "A8s",
+      "action": "Limp"
+    },
+    {
+      "hand": "A7s",
+      "action": "Limp"
+    },
+    {
+      "hand": "A6s",
+      "action": "Limp"
+    },
+    {
+      "hand": "A5s",
+      "action": "Limp"
+    },
+    {
+      "hand": "A3s",
+      "action": "Limp"
+    },
+    {
+      "hand": "A2s",
+      "action": "Limp"
+    },
+    {
+      "hand": "A4s",
+      "action": "Limp"
+    },
+    {
+      "hand": "AKo",
+      "action": "Limp"
+    },
+    {
+      "hand": "AQo",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "AJo",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "ATo",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "A9o",
+      "action": "Limp"
+    },
+    {
+      "hand": "A8o",
+      "action": "Limp"
+    },
+    {
+      "hand": "A7o",
+      "action": "Limp"
+    },
+    {
+      "hand": "A6o",
+      "action": "Limp"
+    },
+    {
+      "hand": "A5o",
+      "action": "Limp"
+    },
+    {
+      "hand": "A4o",
+      "action": "Limp"
+    },
+    {
+      "hand": "A3o",
+      "action": "Limp"
+    },
+    {
+      "hand": "A2o",
+      "action": "Limp"
+    },
+    {
+      "hand": "KQs",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "KJs",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "KTs",
+      "action": "Limp"
+    },
+    {
+      "hand": "K9s",
+      "action": "Limp"
+    },
+    {
+      "hand": "K8s",
+      "action": "Limp"
+    },
+    {
+      "hand": "K7s",
+      "action": "Limp"
+    },
+    {
+      "hand": "K6s",
+      "action": "Limp"
+    },
+    {
+      "hand": "K5s",
+      "action": "Limp"
+    },
+    {
+      "hand": "K4s",
+      "action": "Limp"
+    },
+    {
+      "hand": "K3s",
+      "action": "Limp"
+    },
+    {
+      "hand": "K2s",
+      "action": "Limp"
+    },
+    {
+      "hand": "KQo",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "KJo",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "KTo",
+      "action": "Limp"
+    },
+    {
+      "hand": "K9o",
+      "action": "Limp"
+    },
+    {
+      "hand": "K8o",
+      "action": "Limp"
+    },
+    {
+      "hand": "K7o",
+      "action": "Limp"
+    },
+    {
+      "hand": "K6o",
+      "action": "Limp"
+    },
+    {
+      "hand": "K5o",
+      "action": "Limp"
+    },
+    {
+      "hand": "K4o",
+      "action": "Limp"
+    },
+    {
+      "hand": "K3o",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "K2o",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "QJs",
+      "action": "Raise for Value"
+    },
+    {
+      "hand": "QTs",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q9s",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q8s",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q7s",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q6s",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q5s",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q4s",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q3s",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q2s",
+      "action": "Limp"
+    },
+    {
+      "hand": "QJo",
+      "action": "Limp"
+    },
+    {
+      "hand": "QTo",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q9o",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q8o",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q7o",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q6o",
+      "action": "Limp"
+    },
+    {
+      "hand": "Q5o",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "Q4o",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "Q3o",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "Q2o",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "JTs",
+      "action": "Limp"
+    },
+    {
+      "hand": "J9s",
+      "action": "Limp"
+    },
+    {
+      "hand": "J8s",
+      "action": "Limp"
+    },
+    {
+      "hand": "J7s",
+      "action": "Limp"
+    },
+    {
+      "hand": "J6s",
+      "action": "Limp"
+    },
+    {
+      "hand": "J5s",
+      "action": "Limp"
+    },
+    {
+      "hand": "J4s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "J3s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "J2s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "JTo",
+      "action": "Limp"
+    },
+    {
+      "hand": "J9o",
+      "action": "Limp"
+    },
+    {
+      "hand": "J8o",
+      "action": "Limp"
+    },
+    {
+      "hand": "J7o",
+      "action": "Limp"
+    },
+    {
+      "hand": "J6o",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "T9s",
+      "action": "Limp"
+    },
+    {
+      "hand": "T8s",
+      "action": "Limp"
+    },
+    {
+      "hand": "T7s",
+      "action": "Limp"
+    },
+    {
+      "hand": "T6s",
+      "action": "Limp"
+    },
+    {
+      "hand": "T5s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "T4s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "T9o",
+      "action": "Limp"
+    },
+    {
+      "hand": "T8o",
+      "action": "Limp"
+    },
+    {
+      "hand": "T7o",
+      "action": "Limp"
+    },
+    {
+      "hand": "T6o",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "98s",
+      "action": "Limp"
+    },
+    {
+      "hand": "97s",
+      "action": "Limp"
+    },
+    {
+      "hand": "96s",
+      "action": "Limp"
+    },
+    {
+      "hand": "95s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "94s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "98o",
+      "action": "Limp"
+    },
+    {
+      "hand": "97o",
+      "action": "Limp"
+    },
+    {
+      "hand": "96o",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "87s",
+      "action": "Limp"
+    },
+    {
+      "hand": "86s",
+      "action": "Limp"
+    },
+    {
+      "hand": "85s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "84s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "87o",
+      "action": "Limp"
+    },
+    {
+      "hand": "86o",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "76s",
+      "action": "Limp"
+    },
+    {
+      "hand": "75s",
+      "action": "Limp"
+    },
+    {
+      "hand": "74s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "76o",
+      "action": "Limp"
+    },
+    {
+      "hand": "65s",
+      "action": "Limp"
+    },
+    {
+      "hand": "64s",
+      "action": "Limp"
+    },
+    {
+      "hand": "63s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "65o",
+      "action": "Limp"
+    },
+    {
+      "hand": "54s",
+      "action": "Limp"
+    },
+    {
+      "hand": "53s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "43s",
+      "action": "Raise as a Bluff"
+    },
+    {
+      "hand": "32s",
+      "action": "Limp"
+    }
+  ]
+}
