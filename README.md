@@ -1,10 +1,15 @@
 # Poker Ranges
 
 `mkdir poker`
+
 `cd poker`
+
 `npm init` - take all defaults
+
 `npm install poker-ranges`
+
 In `package.json` file, add this to scripts: `"deal": "node ./node_modules/poker-ranges/js/runner.js"`
+
 To run the program - `npm run deal`
 
 ## Hand Examples
