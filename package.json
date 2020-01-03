@@ -13,6 +13,9 @@
   ],
   "author": "Dan Reale",
   "license": "ISC",
+  "bin": {
+    "deal": "./js/runner.js"
+  },
   "dependencies": {
     "@types/node": "^13.1.2",
     "inquirer": "^7.0.1"
