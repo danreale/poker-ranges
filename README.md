@@ -8,7 +8,7 @@
 
 `npm install poker-ranges`
 
-In `package.json` file, add this to scripts: `"deal": "node ./node_modules/poker-ranges/js/runner.js"`
+In `package.json` file, add this to scripts: `"deal": "node ./node_modules/poker-ranges/dist/runner.js"`
 
 To run the program - `npm run deal`
 
@@ -31,8 +31,8 @@ Suited Hands
 
 RFI - how to play a hand when everyone folds to you
 
-RFI vs 3-bet - how to play when you are the first one to raise and someone who did not act yet, 3 bets you. (not implemented yet)
+RFI vs 3-bet - how to play when you are the first one to raise and someone who did not act yet, 3 bets you. (in progress)
 
-Facing RFI - how to play when someone raised before you (not implemented yet)
+Facing RFI - how to play when someone raised before you (in progress)
 
 ***Credit to Jonathan Little for the free poker range charts and being an inspiration to create this tool.***
