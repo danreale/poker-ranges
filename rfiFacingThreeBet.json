@@ -1,0 +1,72 @@
+{
+  "utg": {
+    "utg1": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "1.2",
+        "Call": "3.3",
+        "Fold": "93.4"
+      },
+      {
+        "hand": "AA",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKs",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKo",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "KK",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AQo",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "ATs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "AQs",
+        "action": "Call"
+      },
+      {
+        "hand": "AJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KQs",
+        "action": "Call"
+      },
+      {
+        "hand": "QQ",
+        "action": "Call"
+      },
+      {
+        "hand": "QJs",
+        "action": "Call"
+      },
+      {
+        "hand": "JJ",
+        "action": "Call"
+      },
+      {
+        "hand": "JTs",
+        "action": "Call"
+      },
+      {
+        "hand": "TT",
+        "action": "Call"
+      },
+      {
+        "hand": "99",
+        "action": "Call"
+      }
+    ]
+  }
+}
