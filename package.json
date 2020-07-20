@@ -10,7 +10,7 @@
     "lint:fix": "eslint --fix ./src/**/*.ts",
     "test": "mocha ./dist/test/**/*.spec.js",
     "build": "rm -R dist; tsc -p ./tsconfig.json;",
-    "push": "npm run build; npm version",
+    "push": "npm run build; npm version minor",
     "deal": "node ./dist/runner.js"
   },
   "keywords": [
