@@ -13,7 +13,8 @@
     "prepublish": "npm run build",
     "updateVersion": "npm version minor",
     "publishToNPM": "npm publish",
-    "deal": "node ./dist/runner.js"
+    "deal": "node ./dist/runner.js",
+    "addData": "node ./dist/dataRunner.js"
   },
   "keywords": [
     "poker"

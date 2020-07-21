@@ -190,3 +190,11 @@ export async function showDecision(decision: any) {
     console.log(chalk.blue(decision));
   }
 }
+
+export async function addData(data: any) {
+  const fs = require('fs');
+
+  fs.appendFile('hands.txt', `${data},\n`, function (err: any) {
+    if (err) throw err;
+  });
+}

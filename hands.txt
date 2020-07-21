@@ -1,0 +1,5 @@
+{"hand":"AKs","action":"3-Bet for Value"},
+{"hand":"QQ","action":"Raise"},
+{"hand":"AAs","action":"3-Bet for Value"},
+{"hand":"FSs","action":"Raise"},
+{"hand":"ATo","action":"4-Bet for Value"},
