@@ -3694,7 +3694,278 @@
     ]
   },
   "bb": {
-    "utg": [],
+    "utg": [
+      {
+        "3-Bet for Value": "2.0",
+        "3-Bet as a Bluff": "2.1",
+        "Call": "23.8",
+        "Fold": "72.1"
+      },
+      {
+        "hand": "AA",
+        "action": "3-Bet for Value"
+      },
+      {
+        "hand": "AKs",
+        "action": "3-Bet for Value"
+      },
+      {
+        "hand": "AQs",
+        "action": "3-Bet for Value"
+      },
+      {
+        "hand": "AJs",
+        "action": "Call"
+      },
+      {
+        "hand": "ATs",
+        "action": "Call"
+      },
+      {
+        "hand": "A9s",
+        "action": "Call"
+      },
+      {
+        "hand": "A8s",
+        "action": "Call"
+      },
+      {
+        "hand": "A7s",
+        "action": "Call"
+      },
+      {
+        "hand": "A6s",
+        "action": "Call"
+      },
+      {
+        "hand": "A5s",
+        "action": "Call"
+      },
+      {
+        "hand": "A4s",
+        "action": "Call"
+      },
+      {
+        "hand": "A3s",
+        "action": "Call"
+      },
+      {
+        "hand": "A2s",
+        "action": "Call"
+      },
+      {
+        "hand": "AKo",
+        "action": "Call"
+      },
+      {
+        "hand": "KK",
+        "action": "3-Bet for Value"
+      },
+      {
+        "hand": "KQs",
+        "action": "Call"
+      },
+      {
+        "hand": "KJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KTs",
+        "action": "Call"
+      },
+      {
+        "hand": "K9s",
+        "action": "Call"
+      },
+      {
+        "hand": "K8s",
+        "action": "Call"
+      },
+      {
+        "hand": "K7s",
+        "action": "Call"
+      },
+      {
+        "hand": "K6s",
+        "action": "Call"
+      },
+      {
+        "hand": "K5s",
+        "action": "Call"
+      },
+      {
+        "hand": "AQo",
+        "action": "Call"
+      },
+      {
+        "hand": "KQo",
+        "action": "Call"
+      },
+      {
+        "hand": "QQ",
+        "action": "3-Bet for Value"
+      },
+      {
+        "hand": "QJs",
+        "action": "Call"
+      },
+      {
+        "hand": "QTs",
+        "action": "Call"
+      },
+      {
+        "hand": "Q9s",
+        "action": "Call"
+      },
+      {
+        "hand": "Q8s",
+        "action": "Call"
+      },
+      {
+        "hand": "Q7s",
+        "action": "Call"
+      },
+      {
+        "hand": "AJo",
+        "action": "Call"
+      },
+      {
+        "hand": "KJo",
+        "action": "Call"
+      },
+      {
+        "hand": "QJo",
+        "action": "Call"
+      },
+      {
+        "hand": "JJ",
+        "action": "Call"
+      },
+      {
+        "hand": "JTs",
+        "action": "Call"
+      },
+      {
+        "hand": "J9s",
+        "action": "Call"
+      },
+      {
+        "hand": "J8s",
+        "action": "Call"
+      },
+      {
+        "hand": "J7s",
+        "action": "Call"
+      },
+      {
+        "hand": "ATo",
+        "action": "Call"
+      },
+      {
+        "hand": "KTo",
+        "action": "Call"
+      },
+      {
+        "hand": "QTo",
+        "action": "Call"
+      },
+      {
+        "hand": "JTo",
+        "action": "Call"
+      },
+      {
+        "hand": "TT",
+        "action": "Call"
+      },
+      {
+        "hand": "T9s",
+        "action": "Call"
+      },
+      {
+        "hand": "T8s",
+        "action": "Call"
+      },
+      {
+        "hand": "T7s",
+        "action": "Call"
+      },
+      {
+        "hand": "99",
+        "action": "Call"
+      },
+      {
+        "hand": "98s",
+        "action": "Call"
+      },
+      {
+        "hand": "97s",
+        "action": "Call"
+      },
+      {
+        "hand": "96s",
+        "action": "Call"
+      },
+      {
+        "hand": "88",
+        "action": "Call"
+      },
+      {
+        "hand": "87s",
+        "action": "Call"
+      },
+      {
+        "hand": "86s",
+        "action": "3-Bet as a Bluff"
+      },
+      {
+        "hand": "77",
+        "action": "Call"
+      },
+      {
+        "hand": "76s",
+        "action": "3-Bet as a Bluff"
+      },
+      {
+        "hand": "75s",
+        "action": "3-Bet as a Bluff"
+      },
+      {
+        "hand": "66",
+        "action": "Call"
+      },
+      {
+        "hand": "65s",
+        "action": "3-Bet as a Bluff"
+      },
+      {
+        "hand": "64s",
+        "action": "3-Bet as a Bluff"
+      },
+      {
+        "hand": "55",
+        "action": "Call"
+      },
+      {
+        "hand": "54s",
+        "action": "3-Bet as a Bluff"
+      },
+      {
+        "hand": "44",
+        "action": "Call"
+      },
+      {
+        "hand": "43s",
+        "action": "3-Bet as a Bluff"
+      },
+      {
+        "hand": "33",
+        "action": "Call"
+      },
+      {
+        "hand": "22",
+        "action": "Call"
+      },
+    ],
     "utg1": [],
     "utg2": [],
     "lj": [],
