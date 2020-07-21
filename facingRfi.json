@@ -719,11 +719,11 @@
       },
       {
         "hand": "AQs",
-        "action": "3-Bet for Value"
+        "action": "Call"
       },
       {
         "hand": "AJs",
-        "action": "3-Bet for Value"
+        "action": "Call"
       },
       {
         "hand": "ATs",
@@ -855,11 +855,11 @@
       },
       {
         "hand": "AQs",
-        "action": "Call"
+        "action": "3-Bet for Value"
       },
       {
         "hand": "AJs",
-        "action": "Call"
+        "action": "3-Bet for Value"
       },
       {
         "hand": "ATs",
@@ -1000,11 +1000,11 @@
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A5o",
+        "hand": "A5s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A4o",
+        "hand": "A4s",
         "action": "3-Bet as a Bluff"
       },
       {
@@ -1112,11 +1112,11 @@
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A5o",
+        "hand": "A5s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A4o",
+        "hand": "A4s",
         "action": "3-Bet as a Bluff"
       },
       {
@@ -1224,19 +1224,19 @@
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A5o",
+        "hand": "A5s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A4o",
+        "hand": "A4s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A3o",
+        "hand": "A3s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A2o",
+        "hand": "A2s",
         "action": "3-Bet as a Bluff"
       },
       {
@@ -1356,19 +1356,19 @@
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A5o",
+        "hand": "A5s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A4o",
+        "hand": "A4s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A3o",
+        "hand": "A3s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A2o",
+        "hand": "A2s",
         "action": "3-Bet as a Bluff"
       },
       {
@@ -1862,6 +1862,10 @@
         "action": "Call"
       },
       {
+        "hand": "J9s",
+        "action": "Call"
+      },
+      {
         "hand": "TT",
         "action": "Call"
       },
@@ -1910,7 +1914,7 @@
         "action": "Call"
       },
       {
-        "han": "22",
+        "hand": "22",
         "action": "Call"
       },
       {
@@ -2082,7 +2086,7 @@
         "action": "Call"
       },
       {
-        "han": "22",
+        "hand": "22",
         "action": "Call"
       },
       {
@@ -2266,7 +2270,7 @@
         "action": "Call"
       },
       {
-        "han": "22",
+        "hand": "22",
         "action": "Call"
       },
       {
@@ -2474,7 +2478,7 @@
         "action": "Call"
       },
       {
-        "han": "22",
+        "hand": "22",
         "action": "Call"
       },
       {
@@ -2559,7 +2563,7 @@
       },
       {
         "hand": "AJs",
-        "action": "Call"
+        "action": "3-Bet for Value"
       },
       {
         "hand": "ATs",
@@ -2714,7 +2718,7 @@
         "action": "Call"
       },
       {
-        "han": "22",
+        "hand": "22",
         "action": "Call"
       },
       {
@@ -2760,11 +2764,11 @@
         "action": "Call"
       },
       {
-        "hand": "AT",
+        "hand": "ATs",
         "action": "Call"
       },
       {
-        "hand": "A5",
+        "hand": "A5s",
         "action": "3-Bet as a Bluff"
       },
       {
@@ -2856,11 +2860,11 @@
         "action": "Call"
       },
       {
-        "hand": "AT",
+        "hand": "ATs",
         "action": "Call"
       },
       {
-        "hand": "A5",
+        "hand": "A5s",
         "action": "3-Bet as a Bluff"
       },
       {
@@ -2952,11 +2956,11 @@
         "action": "Call"
       },
       {
-        "hand": "AT",
+        "hand": "ATs",
         "action": "Call"
       },
       {
-        "hand": "A5",
+        "hand": "A5s",
         "action": "3-Bet as a Bluff"
       },
       {
@@ -3061,18 +3065,18 @@
       },
       {
         "hand": "AJs",
-        "action": "3-Bet for Value"
-      },
-      {
-        "hand": "AT",
         "action": "Call"
       },
       {
-        "hand": "A5",
+        "hand": "ATs",
+        "action": "Call"
+      },
+      {
+        "hand": "A5s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A4",
+        "hand": "A4s",
         "action": "3-Bet as a Bluff"
       },
       {
@@ -3185,26 +3189,26 @@
       },
       {
         "hand": "AJs",
-        "action": "3-Bet for Value"
-      },
-      {
-        "hand": "AT",
         "action": "Call"
       },
       {
-        "hand": "A9",
+        "hand": "ATs",
+        "action": "Call"
+      },
+      {
+        "hand": "A9s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A5",
+        "hand": "A5s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A4",
+        "hand": "A4s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A3",
+        "hand": "A3s",
         "action": "3-Bet as a Bluff"
       },
       {
@@ -3332,39 +3336,39 @@
         "action": "3-Bet for Value"
       },
       {
-        "hand": "AT",
+        "hand": "ATs",
         "action": "3-Bet for Value"
       },
       {
-        "hand": "A9",
+        "hand": "A9s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A8",
+        "hand": "A8s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A7",
+        "hand": "A7s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A6",
+        "hand": "A6s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A5",
+        "hand": "A5s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A4",
+        "hand": "A4s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A3",
+        "hand": "A3s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A2",
+        "hand": "A2s",
         "action": "3-Bet as a Bluff"
       },
       {
@@ -3508,39 +3512,39 @@
         "action": "3-Bet for Value"
       },
       {
-        "hand": "AT",
+        "hand": "ATs",
         "action": "3-Bet for Value"
       },
       {
-        "hand": "A9",
+        "hand": "A9s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A8",
+        "hand": "A8s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A7",
+        "hand": "A7s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A6",
+        "hand": "A6s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A5",
+        "hand": "A5s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A4",
+        "hand": "A4s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A3",
+        "hand": "A3s",
         "action": "3-Bet as a Bluff"
       },
       {
-        "hand": "A2",
+        "hand": "A2s",
         "action": "3-Bet as a Bluff"
       },
       {
@@ -4807,7 +4811,7 @@
       },
       {
         "hand": "86s",
-        "action": "3-Bet as a Bluff"
+        "action": "Call"
       },
       {
         "hand": "85s",
@@ -4819,7 +4823,7 @@
       },
       {
         "hand": "76s",
-        "action": "3-Bet as a Bluff"
+        "action": "Call"
       },
       {
         "hand": "75s",
@@ -5139,7 +5143,7 @@
       },
       {
         "hand": "86s",
-        "action": "3-Bet as a Bluff"
+        "action": "Call"
       },
       {
         "hand": "85s",
@@ -5474,6 +5478,10 @@
         "action": "Call"
       },
       {
+        "hand": "98o",
+        "action": "Call"
+      },
+      {
         "hand": "99",
         "action": "Call"
       },
@@ -5511,7 +5519,7 @@
       },
       {
         "hand": "86s",
-        "action": "3-Bet as a Bluff"
+        "action": "Call"
       },
       {
         "hand": "85s",
@@ -6035,6 +6043,10 @@
       },
       {
         "hand": "A6o",
+        "action": "Call"
+      },
+      {
+        "hand": "K6o",
         "action": "Call"
       },
       {
@@ -6591,6 +6603,10 @@
       },
       {
         "hand": "A6o",
+        "action": "Call"
+      },
+      {
+        "hand": "K6o",
         "action": "Call"
       },
       {
