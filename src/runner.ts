@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import * as utils from "./utils";
 require("dotenv").config();
 

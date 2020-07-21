@@ -36,5 +36,8 @@
     "mocha": "^8.0.1",
     "prettier": "2.0.5",
     "typescript": "^3.7.4"
+  },
+  "bin": {
+    "gto": "node ./dist/runner.js"
   }
 }
