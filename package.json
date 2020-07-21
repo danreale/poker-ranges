@@ -38,6 +38,6 @@
     "typescript": "^3.7.4"
   },
   "bin": {
-    "gto": "node ./dist/runner.js"
+    "gto": "./dist/runner.js"
   }
 }
