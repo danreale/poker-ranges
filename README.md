@@ -1,16 +1,8 @@
 # Poker Ranges
 
-`mkdir poker`
+`npm install -g poker-ranges`
 
-`cd poker`
-
-`npm init` - take all defaults
-
-`npm install poker-ranges`
-
-In `package.json` file, add this to scripts: `"deal": "node ./node_modules/poker-ranges/dist/runner.js"`
-
-To run the program - `npm run deal`
+To run the program - `gto`
 
 ## Hand Examples
 Poket pairs
@@ -31,8 +23,9 @@ Suited Hands
 
 RFI - how to play a hand when everyone folds to you
 
+Facing RFI - how to play when someone raised before you
+
 RFI vs 3-bet - how to play when you are the first one to raise and someone who did not act yet, 3 bets you. (in progress)
 
-Facing RFI - how to play when someone raised before you (in progress)
 
 ***Credit to Jonathan Little for the free poker range charts and being an inspiration to create this tool.***

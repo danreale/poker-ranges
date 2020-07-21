@@ -1644,7 +1644,7 @@
   "button": {
     "utg": [
       {
-        "3-Bet for Value": "2.9",
+        "3-Bet for Value": "2.6",
         "3-Bet as a Bluff": "3.6",
         "Call": "8.1",
         "Fold": "85.7"
@@ -3310,7 +3310,7 @@
     ],
     "co": [
       {
-        "3-Bet for Value": "5.8",
+        "3-Bet for Value": "5.6",
         "3-Bet as a Bluff": "11.2",
         "Call": "0.0",
         "Fold": "83.3"
@@ -4543,7 +4543,7 @@
         "3-Bet for Value": "4.4",
         "3-Bet as a Bluff": "3.3",
         "Call": "25.3",
-        "Fold": "57.0"
+        "Fold": "67.0"
       },
       {
         "hand": "AA",

@@ -651,59 +651,6 @@ describe('RFI', () => {
         }));
     });
 });
-describe('Facing RFI', () => {
-    data_driven([
-        { position: 'utg1', oppPosition: 'utg', hand: 'AKo', decision: '3-Bet for Value', percentage: '2.6' },
-        { position: 'utg1', oppPosition: 'utg', hand: '72o', decision: 'Fold', percentage: '92.6' },
-        { position: 'utg1', oppPosition: 'utg', hand: 'JJ', decision: 'Call', percentage: '3.3' },
-        { position: 'utg1', oppPosition: 'utg', hand: 'AQo', decision: '3-Bet as a Bluff', percentage: '1.5' },
-        { position: 'utg2', oppPosition: 'utg', hand: 'AKo', decision: '3-Bet for Value', percentage: '2.6' },
-        { position: 'utg2', oppPosition: 'utg', hand: '72o', decision: 'Fold', percentage: '92.6' },
-        { position: 'utg2', oppPosition: 'utg', hand: 'JJ', decision: 'Call', percentage: '3.3' },
-        { position: 'utg2', oppPosition: 'utg', hand: 'AQo', decision: '3-Bet as a Bluff', percentage: '1.5' },
-        { position: 'utg2', oppPosition: 'utg1', hand: 'AKo', decision: '3-Bet for Value', percentage: '2.6' },
-        { position: 'utg2', oppPosition: 'utg1', hand: '72o', decision: 'Fold', percentage: '92.6' },
-        { position: 'utg2', oppPosition: 'utg1', hand: 'JJ', decision: 'Call', percentage: '3.3' },
-        { position: 'utg2', oppPosition: 'utg1', hand: 'AQo', decision: '3-Bet as a Bluff', percentage: '1.5' },
-        { position: 'lj', oppPosition: 'utg', hand: 'AKo', decision: '3-Bet for Value', percentage: '2.6' },
-        { position: 'lj', oppPosition: 'utg', hand: '72o', decision: 'Fold', percentage: '91.6' },
-        { position: 'lj', oppPosition: 'utg', hand: 'JJ', decision: 'Call', percentage: '4.1' },
-        { position: 'lj', oppPosition: 'utg', hand: '77', decision: 'Call', percentage: '4.1' },
-        { position: 'lj', oppPosition: 'utg', hand: 'AQo', decision: '3-Bet as a Bluff', percentage: '1.8' },
-        { position: 'lj', oppPosition: 'utg', hand: 'A5s', decision: '3-Bet as a Bluff', percentage: '1.8' },
-        { position: 'lj', oppPosition: 'utg1', hand: 'AKo', decision: '3-Bet for Value', percentage: '2.6' },
-        { position: 'lj', oppPosition: 'utg1', hand: '72o', decision: 'Fold', percentage: '91.6' },
-        { position: 'lj', oppPosition: 'utg1', hand: 'JJ', decision: 'Call', percentage: '4.1' },
-        { position: 'lj', oppPosition: 'utg1', hand: '77', decision: 'Call', percentage: '4.1' },
-        { position: 'lj', oppPosition: 'utg1', hand: 'AQo', decision: '3-Bet as a Bluff', percentage: '1.8' },
-        { position: 'lj', oppPosition: 'utg1', hand: 'A5s', decision: '3-Bet as a Bluff', percentage: '1.8' },
-        { position: 'lj', oppPosition: 'utg2', hand: 'AKo', decision: '3-Bet for Value', percentage: '2.6' },
-        { position: 'lj', oppPosition: 'utg2', hand: '72o', decision: 'Fold', percentage: '90.5' },
-        { position: 'lj', oppPosition: 'utg2', hand: 'JJ', decision: 'Call', percentage: '4.5' },
-        { position: 'lj', oppPosition: 'utg2', hand: '66', decision: 'Call', percentage: '4.5' },
-        { position: 'lj', oppPosition: 'utg2', hand: 'AQo', decision: '3-Bet as a Bluff', percentage: '2.4' },
-        { position: 'lj', oppPosition: 'utg2', hand: 'A5s', decision: '3-Bet as a Bluff', percentage: '2.4' },
-        { position: 'lj', oppPosition: 'utg2', hand: '98s', decision: '3-Bet as a Bluff', percentage: '2.4' },
-        { position: 'lj', oppPosition: 'utg2', hand: '87s', decision: '3-Bet as a Bluff', percentage: '2.4' }
-    ], function () {
-        // eslint-disable-next-line @typescript-eslint/no-explicit-any
-        it('Facing RFI {position} {hand} vs {oppPosition}', (ctx) => __awaiter(this, void 0, void 0, function* () {
-            const chart = require('../../facingRfi.json'); // eslint-disable-line @typescript-eslint/no-var-requires
-            const len = chart[ctx.position][ctx.oppPosition].length;
-            const decision = yield utils.findHandActionComplex(chart, ctx.position, ctx.oppPosition, len, ctx.hand);
-            const perc = yield utils.getPercentagesComplex('Facing RFI', ctx.position, ctx.oppPosition, decision);
-            if (ctx.decision === 'Fold') {
-                chai_1.expect(decision).to.eql(undefined);
-            }
-            else {
-                chai_1.expect(decision).to.eql(ctx.decision);
-            }
-            if (percentageFlag === 'on') {
-                chai_1.expect(perc).to.eql(`${ctx.percentage}% of hands`);
-            }
-        }));
-    });
-});
 describe('RFI Facing 3-Bet', () => {
     data_driven([
         { position: 'utg', oppPosition: 'utg1', hand: 'AKo', decision: '4-Bet for Value', percentage: '2.1' },
