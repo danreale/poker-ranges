@@ -167,6 +167,7 @@ describe('Facing RFI', () => {
         { position: 'bb', oppPosition: 'sb', decision: 'Call', percentage: '54.8' },
         { position: 'bb', oppPosition: 'sb', decision: 'Fold', percentage: '21.7' }
     ], function () {
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
         it('Facing RFI {position} vs {oppPosition} {percentage}', (ctx) => __awaiter(this, void 0, void 0, function* () {
             const perc = yield utils.getPercentagesComplex('Facing RFI', ctx.position, ctx.oppPosition, ctx.decision);
             chai_1.expect(perc).to.eql(`${ctx.percentage}% of hands`);

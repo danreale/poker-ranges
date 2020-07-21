@@ -153,6 +153,7 @@ describe('Facing RFI', () => {
       {position: 'bb', oppPosition: 'sb', decision: 'Fold', percentage: '21.7'}
     ],
   function() {
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
     it('Facing RFI {position} vs {oppPosition} {percentage}', async(ctx: any) => {
       const perc = await utils.getPercentagesComplex('Facing RFI', ctx.position, ctx.oppPosition, ctx.decision);
       expect(perc).to.eql(`${ctx.percentage}% of hands`);
