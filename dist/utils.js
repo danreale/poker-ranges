@@ -18,7 +18,7 @@ function getSituation() {
                 type: "list",
                 name: "situation",
                 message: "What is your situation?",
-                choices: ["RFI", "RFI vs 3-bet", "Facing RFI"],
+                choices: ["RFI", "Facing RFI", "RFI vs 3-bet"],
             },
         ];
         const answers = yield inquirer.prompt(situation);
@@ -38,9 +38,9 @@ function getPosition(player) {
                     "utg",
                     "utg1",
                     "utg2",
-                    "lojack",
-                    "hijack",
-                    "cutoff",
+                    "lj",
+                    "hj",
+                    "co",
                     "button",
                     "sb",
                     "bb",
@@ -203,3 +203,13 @@ function showDecision(decision) {
     });
 }
 exports.showDecision = showDecision;
+function addData(data) {
+    return __awaiter(this, void 0, void 0, function* () {
+        const fs = require("fs");
+        fs.appendFile("hands.txt", `${data},\n`, function (err) {
+            if (err)
+                throw err;
+        });
+    });
+}
+exports.addData = addData;

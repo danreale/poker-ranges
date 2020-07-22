@@ -7,7 +7,7 @@ export async function getSituation() {
       type: "list",
       name: "situation",
       message: "What is your situation?",
-      choices: ["RFI", "RFI vs 3-bet", "Facing RFI"],
+      choices: ["RFI", "Facing RFI", "RFI vs 3-bet"],
     },
   ];
   const answers = await inquirer.prompt(situation);
@@ -24,9 +24,9 @@ export async function getPosition(player: string) {
         "utg",
         "utg1",
         "utg2",
-        "lojack",
-        "hijack",
-        "cutoff",
+        "lj",
+        "hj",
+        "co",
         "button",
         "sb",
         "bb",
@@ -192,9 +192,9 @@ export async function showDecision(decision: any) {
 }
 
 export async function addData(data: any) {
-  const fs = require('fs');
+  const fs = require("fs");
 
-  fs.appendFile('hands.txt', `${data},\n`, function (err: any) {
+  fs.appendFile("hands.txt", `${data},\n`, function (err: any) {
     if (err) throw err;
   });
 }
