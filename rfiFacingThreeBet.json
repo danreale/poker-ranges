@@ -67,6 +67,1948 @@
         "hand": "99",
         "action": "Call"
       }
+    ],
+    "utg2": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "1.5",
+        "Call": "3.8",
+        "Fold": "92.6"
+      },
+      {
+        "hand": "AA",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKs",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKo",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "KK",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AQo",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "ATs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "A9s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "AQs",
+        "action": "Call"
+      },
+      {
+        "hand": "AJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KQs",
+        "action": "Call"
+      },
+      {
+        "hand": "QQ",
+        "action": "Call"
+      },
+      {
+        "hand": "QJs",
+        "action": "Call"
+      },
+      {
+        "hand": "JJ",
+        "action": "Call"
+      },
+      {
+        "hand": "JTs",
+        "action": "Call"
+      },
+      {
+        "hand": "TT",
+        "action": "Call"
+      },
+      {
+        "hand": "99",
+        "action": "Call"
+      },
+      {
+        "hand": "88",
+        "action": "Call"
+      }
+    ],
+    "lj": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "1.2",
+        "Call": "4.1",
+        "Fold": "92.3"
+      },
+      {
+        "hand": "AA",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKs",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKo",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "KK",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AQo",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "ATs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "A9s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "AQs",
+        "action": "Call"
+      },
+      {
+        "hand": "AJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KQs",
+        "action": "Call"
+      },
+      {
+        "hand": "QQ",
+        "action": "Call"
+      },
+      {
+        "hand": "QJs",
+        "action": "Call"
+      },
+      {
+        "hand": "JJ",
+        "action": "Call"
+      },
+      {
+        "hand": "JTs",
+        "action": "Call"
+      },
+      {
+        "hand": "TT",
+        "action": "Call"
+      },
+      {
+        "hand": "T9s",
+        "action": "Call"
+      },
+      {
+        "hand": "99",
+        "action": "Call"
+      },
+      {
+        "hand": "88",
+        "action": "Call"
+      }
+    ],
+    "hj": [
+      {
+        "4-Bet for Value": "2.6",
+        "4-Bet as a Bluff": "1.8",
+        "Call": "4.4",
+        "Fold": "92.3"
+      },
+      {
+        "hand": "AA",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKs",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKo",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "KK",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AQo",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "ATs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "A9s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "A5s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "AQs",
+        "action": "Call"
+      },
+      {
+        "hand": "AJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KQs",
+        "action": "Call"
+      },
+      {
+        "hand": "KJs",
+        "action": "Call"
+      },
+      {
+        "hand": "QQ",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "QJs",
+        "action": "Call"
+      },
+      {
+        "hand": "JJ",
+        "action": "Call"
+      },
+      {
+        "hand": "JTs",
+        "action": "Call"
+      },
+      {
+        "hand": "TT",
+        "action": "Call"
+      },
+      {
+        "hand": "T9s",
+        "action": "Call"
+      },
+      {
+        "hand": "99",
+        "action": "Call"
+      },
+      {
+        "hand": "88",
+        "action": "Call"
+      },
+      {
+        "hand": "77",
+        "action": "Call"
+      }
+    ],
+    "co": [
+      {
+        "4-Bet for Value": "2.6",
+        "4-Bet as a Bluff": "1.5",
+        "Call": "5.6",
+        "Fold": "90.4"
+      },
+      {
+        "hand": "AA",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKs",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKo",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "KK",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AQo",
+        "action": "Call"
+      },
+      {
+        "hand": "ATs",
+        "action": "Call"
+      },
+      {
+        "hand": "A9s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "A5s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "AQs",
+        "action": "Call"
+      },
+      {
+        "hand": "AJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KQs",
+        "action": "Call"
+      },
+      {
+        "hand": "KJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KTs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "QQ",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "QJs",
+        "action": "Call"
+      },
+      {
+        "hand": "QTs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "JJ",
+        "action": "Call"
+      },
+      {
+        "hand": "JTs",
+        "action": "Call"
+      },
+      {
+        "hand": "TT",
+        "action": "Call"
+      },
+      {
+        "hand": "T9s",
+        "action": "Call"
+      },
+      {
+        "hand": "99",
+        "action": "Call"
+      },
+      {
+        "hand": "98s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "88",
+        "action": "Call"
+      },
+      {
+        "hand": "77",
+        "action": "Call"
+      }
+    ],
+    "button": [
+      {
+        "4-Bet for Value": "2.6",
+        "4-Bet as a Bluff": "1.5",
+        "Call": "5.6",
+        "Fold": "90.4"
+      },
+      {
+        "hand": "AA",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKs",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKo",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "KK",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AQo",
+        "action": "Call"
+      },
+      {
+        "hand": "ATs",
+        "action": "Call"
+      },
+      {
+        "hand": "A9s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "A5s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "AQs",
+        "action": "Call"
+      },
+      {
+        "hand": "AJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KQs",
+        "action": "Call"
+      },
+      {
+        "hand": "KJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KTs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "QQ",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "QJs",
+        "action": "Call"
+      },
+      {
+        "hand": "QTs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "JJ",
+        "action": "Call"
+      },
+      {
+        "hand": "JTs",
+        "action": "Call"
+      },
+      {
+        "hand": "TT",
+        "action": "Call"
+      },
+      {
+        "hand": "T9s",
+        "action": "Call"
+      },
+      {
+        "hand": "99",
+        "action": "Call"
+      },
+      {
+        "hand": "98s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "88",
+        "action": "Call"
+      },
+      {
+        "hand": "77",
+        "action": "Call"
+      }
+    ],
+    "sb": [
+      {
+        "4-Bet for Value": "2.6",
+        "4-Bet as a Bluff": "1.5",
+        "Call": "6.0",
+        "Fold": "89.9"
+      },
+      {
+        "hand": "AA",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKs",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKo",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "KK",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AQo",
+        "action": "Call"
+      },
+      {
+        "hand": "ATs",
+        "action": "Call"
+      },
+      {
+        "hand": "A9s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "A5s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "AQs",
+        "action": "Call"
+      },
+      {
+        "hand": "AJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KQs",
+        "action": "Call"
+      },
+      {
+        "hand": "KJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KTs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "QQ",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "QJs",
+        "action": "Call"
+      },
+      {
+        "hand": "QTs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "JJ",
+        "action": "Call"
+      },
+      {
+        "hand": "JTs",
+        "action": "Call"
+      },
+      {
+        "hand": "TT",
+        "action": "Call"
+      },
+      {
+        "hand": "T9s",
+        "action": "Call"
+      },
+      {
+        "hand": "99",
+        "action": "Call"
+      },
+      {
+        "hand": "98s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "88",
+        "action": "Call"
+      },
+      {
+        "hand": "77",
+        "action": "Call"
+      },
+      {
+        "hand": "66",
+        "action": "Call"
+      }
+    ],
+    "bb": [
+      {
+        "4-Bet for Value": "2.6",
+        "4-Bet as a Bluff": "1.5",
+        "Call": "6.0",
+        "Fold": "89.9"
+      },
+      {
+        "hand": "AA",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKs",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AKo",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "KK",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "AQo",
+        "action": "Call"
+      },
+      {
+        "hand": "ATs",
+        "action": "Call"
+      },
+      {
+        "hand": "A9s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "A5s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "AQs",
+        "action": "Call"
+      },
+      {
+        "hand": "AJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KQs",
+        "action": "Call"
+      },
+      {
+        "hand": "KJs",
+        "action": "Call"
+      },
+      {
+        "hand": "KTs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "QQ",
+        "action": "4-Bet for Value"
+      },
+      {
+        "hand": "QJs",
+        "action": "Call"
+      },
+      {
+        "hand": "QTs",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "JJ",
+        "action": "Call"
+      },
+      {
+        "hand": "JTs",
+        "action": "Call"
+      },
+      {
+        "hand": "TT",
+        "action": "Call"
+      },
+      {
+        "hand": "T9s",
+        "action": "Call"
+      },
+      {
+        "hand": "99",
+        "action": "Call"
+      },
+      {
+        "hand": "98s",
+        "action": "4-Bet as a Bluff"
+      },
+      {
+        "hand": "88",
+        "action": "Call"
+      },
+      {
+        "hand": "77",
+        "action": "Call"
+      },
+      {
+        "hand": "66",
+        "action": "Call"
+      }
+    ]
+  },
+  "utg1": {
+    "utg2": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "2.7",
+        "Call": "4.8",
+        "Fold": "90.4"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"4-Bet as a Bluff"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"AQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"Call"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"77","action":"Call"}
+    ],
+    "lj": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "2.4",
+        "Call": "6.0",
+        "Fold": "89.5"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"4-Bet as a Bluff"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"4-Bet as a Bluff"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"QQ","action":"Call"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"4-Bet as a Bluff"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"77","action":"Call"}
+    ],
+    "hj": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "3.3",
+        "Call": "7.1",
+        "Fold": "87.7"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"4-Bet as a Bluff"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"4-Bet as a Bluff"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"4-Bet as a Bluff"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"QQ","action":"Call"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"4-Bet as a Bluff"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"66","action":"Call"}
+    ],
+    "co": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "3.3",
+        "Call": "7.1",
+        "Fold": "87.7"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"4-Bet as a Bluff"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"4-Bet as a Bluff"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"4-Bet as a Bluff"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"QQ","action":"Call"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"4-Bet as a Bluff"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"66","action":"Call"}
+    ],
+    "button": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "3.6",
+        "Call": "8.0",
+        "Fold": "86.3"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"4-Bet as a Bluff"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"4-Bet as a Bluff"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"4-Bet as a Bluff"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"QQ","action":"Call"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"4-Bet as a Bluff"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"J9s","action":"4-Bet as a Bluff"},
+      {"hand":"ATo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"66","action":"Call"}
+    ],
+    "sb": [
+      {
+        "4-Bet for Value": "2.6",
+        "4-Bet as a Bluff": "3.6",
+        "Call": "8.1",
+        "Fold": "85.7"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"4-Bet as a Bluff"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"4-Bet as a Bluff"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"4-Bet as a Bluff"},
+      {"hand":"K9s","action":"4-Bet as a Bluff"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"4-Bet as a Bluff"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"J9s","action":"4-Bet as a Bluff"},
+      {"hand":"ATo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"66","action":"Call"}
+    ],
+    "bb": [
+      {
+        "4-Bet for Value": "2.6",
+        "4-Bet as a Bluff": "3.6",
+        "Call": "8.1",
+        "Fold": "85.7"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"4-Bet as a Bluff"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"4-Bet as a Bluff"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"4-Bet as a Bluff"},
+      {"hand":"K9s","action":"4-Bet as a Bluff"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"4-Bet as a Bluff"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"J9s","action":"4-Bet as a Bluff"},
+      {"hand":"ATo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"66","action":"Call"}
+    ]
+  },
+  "utg2":{
+    "lj": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "3.3",
+        "Call": "6.3",
+        "Fold": "88.2"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"Call"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"77","action":"Call"}
+    ],
+    "hj": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "3.6",
+        "Call": "6.8",
+        "Fold": "87.5"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"Call"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"4-Bet as a Bluff"},
+      {"hand":"77","action":"Call"},
+      {"hand":"66","action":"Call"}
+    ],
+    "co": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "3.6",
+        "Call": "8.1",
+        "Fold": "86.1"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"Call"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"66","action":"Call"},
+      {"hand":"55","action":"Call"}
+    ],
+    "button": [
+      {
+        "4-Bet for Value": "2.1",
+        "4-Bet as a Bluff": "3.6",
+        "Call": "8.1",
+        "Fold": "86.1"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"Call"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"66","action":"Call"},
+      {"hand":"55","action":"Call"}
+    ],
+    "sb": [
+      {
+        "4-Bet for Value": "2.8",
+        "4-Bet as a Bluff": "3.6",
+        "Call": "7.7",
+        "Fold": "86.1"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"66","action":"Call"},
+      {"hand":"55","action":"Call"}
+    ],
+    "bb": [
+      {
+        "4-Bet for Value": "2.8",
+        "4-Bet as a Bluff": "3.6",
+        "Call": "7.7",
+        "Fold": "86.1"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"66","action":"Call"},
+      {"hand":"55","action":"Call"}
+    ]
+  },
+  "lj": {
+    "hj": [
+      {
+        "4-Bet for Value": "2.6",
+        "4-Bet as a Bluff": "3.6",
+        "Call": "6.5",
+        "Fold": "87.3"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"Call"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"77","action":"Call"}
+    ],
+    "co": [
+      {
+        "4-Bet for Value": "3.0",
+        "4-Bet as a Bluff": "3.9",
+        "Call": "6.5",
+        "Fold": "86.5"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"4-Bet as a Bluff"},
+      {"hand":"77","action":"Call"},
+      {"hand":"66","action":"Call"}
+    ],
+    "button": [
+      {
+        "4-Bet for Value": "3.0",
+        "4-Bet as a Bluff": "4.2",
+        "Call": "7.2",
+        "Fold": "85.5"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A7s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"4-Bet as a Bluff"},
+      {"hand":"66","action":"Call"},
+      {"hand":"55","action":"Call"}
+    ],
+    "sb": [
+      {
+        "4-Bet for Value": "3.0",
+        "4-Bet as a Bluff": "4.2",
+        "Call": "9.7",
+        "Fold": "83.1"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A7s","action":"4-Bet as a Bluff"},
+      {"hand":"A6s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"KJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"ATo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"Call"},
+      {"hand":"66","action":"Call"},
+      {"hand":"55","action":"Call"}
+    ],
+    "bb": [
+      {
+        "4-Bet for Value": "3.0",
+        "4-Bet as a Bluff": "4.2",
+        "Call": "8.0",
+        "Fold": "84.7"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A7s","action":"4-Bet as a Bluff"},
+      {"hand":"A6s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"Call"},
+      {"hand":"66","action":"Call"},
+      {"hand":"55","action":"Call"},
+      {"hand":"44","action":"Call"}
+    ]
+  },
+  "hj": {
+    "co": [
+      {
+        "4-Bet for Value": "3.0",
+        "4-Bet as a Bluff": "4.2",
+        "Call": "8.0",
+        "Fold": "84.7"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A7s","action":"4-Bet as a Bluff"},
+      {"hand":"A6s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"K9s","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"Q9s","action":"Call"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"KJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"J9s","action":"Call"},
+      {"hand":"ATo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"4-Bet as a Bluff"},
+      {"hand":"66","action":"Call"},
+      {"hand":"55","action":"Call"}
+    ],
+    "button": [
+      {
+        "4-Bet for Value": "3.0",
+        "4-Bet as a Bluff": "5.1",
+        "Call": "10.4",
+        "Fold": "81.4"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A7s","action":"4-Bet as a Bluff"},
+      {"hand":"A6s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"K9s","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"Q9s","action":"Call"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"KJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"J9s","action":"Call"},
+      {"hand":"ATo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"4-Bet as a Bluff"},
+      {"hand":"66","action":"Call"},
+      {"hand":"65s","action":"4-Bet as a Bluff"},
+      {"hand":"55","action":"Call"},
+      {"hand":"54s","action":"4-Bet as a Bluff"},
+      {"hand":"44","action":"Call"}
+    ],
+    "sb": [
+      {
+        "4-Bet for Value": "3.0",
+        "4-Bet as a Bluff": "4.2",
+        "Call": "10.7",
+        "Fold": "82.0"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A7s","action":"4-Bet as a Bluff"},
+      {"hand":"A6s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"K9s","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"Q9s","action":"Call"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"KJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"J9s","action":"Call"},
+      {"hand":"ATo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"Call"},
+      {"hand":"66","action":"Call"},
+      {"hand":"55","action":"Call"},
+      {"hand":"44","action":"Call"}
+    ],
+    "bb": [
+      {
+        "4-Bet for Value": "3.0",
+        "4-Bet as a Bluff": "4.2",
+        "Call": "8.0",
+        "Fold": "84.7"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A7s","action":"4-Bet as a Bluff"},
+      {"hand":"A6s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"4-Bet as a Bluff"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"4-Bet as a Bluff"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"AJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"Call"},
+      {"hand":"66","action":"Call"},
+      {"hand":"55","action":"Call"},
+      {"hand":"44","action":"Call"}
+    ]
+  },
+  "co": {
+    "button": [
+      {
+        "4-Bet for Value": "3.5",
+        "4-Bet as a Bluff": "4.8",
+        "Call": "11.5",
+        "Fold": "80.2"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A7s","action":"4-Bet as a Bluff"},
+      {"hand":"A6s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"Call"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"K9s","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"Q9s","action":"Call"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"KJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"J9s","action":"Call"},
+      {"hand":"ATo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"4-Bet for Value"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"T8s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"97s","action":"4-Bet as a Bluff"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"86s","action":"4-Bet as a Bluff"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"Call"},
+      {"hand":"75s","action":"4-Bet as a Bluff"},
+      {"hand":"66","action":"Call"},
+      {"hand":"65s","action":"Call"},
+      {"hand":"55","action":"Call"},
+      {"hand":"54s","action":"4-Bet as a Bluff"},
+      {"hand":"44","action":"Call"}
+    ],
+    "sb": [
+      {
+        "4-Bet for Value": "3.5",
+        "4-Bet as a Bluff": "4.8",
+        "Call": "11.5",
+        "Fold": "80.2"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A7s","action":"4-Bet as a Bluff"},
+      {"hand":"A6s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"Call"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"K9s","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"Q9s","action":"Call"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"KJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"J9s","action":"Call"},
+      {"hand":"ATo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"4-Bet for Value"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"T8s","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"97s","action":"4-Bet as a Bluff"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"86s","action":"4-Bet as a Bluff"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"Call"},
+      {"hand":"75s","action":"4-Bet as a Bluff"},
+      {"hand":"66","action":"Call"},
+      {"hand":"65s","action":"Call"},
+      {"hand":"55","action":"Call"},
+      {"hand":"54s","action":"4-Bet as a Bluff"},
+      {"hand":"44","action":"Call"}
+    ],
+    "bb": [
+      {
+        "4-Bet for Value": "3.5",
+        "4-Bet as a Bluff": "4.2",
+        "Call": "10.9",
+        "Fold": "81.4"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"Call"},
+      {"hand":"AJs","action":"Call"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"4-Bet as a Bluff"},
+      {"hand":"A8s","action":"4-Bet as a Bluff"},
+      {"hand":"A5s","action":"Call"},
+      {"hand":"A4s","action":"4-Bet as a Bluff"},
+      {"hand":"A3s","action":"4-Bet as a Bluff"},
+      {"hand":"A2s","action":"4-Bet as a Bluff"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"K9s","action":"Call"},
+      {"hand":"AQo","action":"Call"},
+      {"hand":"KQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"Q9s","action":"Call"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"KJo","action":"4-Bet as a Bluff"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"J9s","action":"Call"},
+      {"hand":"ATo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"4-Bet for Value"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"T8s","action":"4-Bet as a Bluff"},
+      {"hand":"99","action":"Call"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"97s","action":"4-Bet as a Bluff"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"Call"},
+      {"hand":"66","action":"Call"},
+      {"hand":"65s","action":"4-Bet as a Bluff"},
+      {"hand":"55","action":"Call"},
+      {"hand":"54s","action":"4-Bet as a Bluff"},
+      {"hand":"44","action":"Call"}
+    ]
+  },
+  "button": {
+    "sb": [
+      {
+        "4-Bet for Value": "5.4",
+        "4-Bet as a Bluff": "9.4",
+        "Call": "18.6",
+        "Fold": "66.7"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"4-Bet for Value"},
+      {"hand":"AJs","action":"4-Bet for Value"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"Call"},
+      {"hand":"A8s","action":"Call"},
+      {"hand":"A7s","action":"Call"},
+      {"hand":"A6s","action":"Call"},
+      {"hand":"A5s","action":"Call"},
+      {"hand":"A4s","action":"Call"},
+      {"hand":"A3s","action":"Call"},
+      {"hand":"A2s","action":"Call"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"K9s","action":"Call"},
+      {"hand":"K8s","action":"Call"},
+      {"hand":"K7s","action":"Call"},
+      {"hand":"K6s","action":"4-Bet as a Bluff"},
+      {"hand":"K5s","action":"4-Bet as a Bluff"},
+      {"hand":"K4s","action":"4-Bet as a Bluff"},
+      {"hand":"AQo","action":"4-Bet for Value"},
+      {"hand":"KQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"Q9s","action":"Call"},
+      {"hand":"Q8s","action":"Call"},
+      {"hand":"Q7s","action":"4-Bet as a Bluff"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"KJo","action":"Call"},
+      {"hand":"QJo","action":"Call"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"J9s","action":"Call"},
+      {"hand":"J8s","action":"Call"},
+      {"hand":"J7s","action":"4-Bet as a Bluff"},
+      {"hand":"ATo","action":"Call"},
+      {"hand":"KTo","action":"Call"},
+      {"hand":"QTo","action":"4-Bet as a Bluff"},
+      {"hand":"JTo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"4-Bet for Value"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"T8s","action":"Call"},
+      {"hand":"T7s","action":"Call"},
+      {"hand":"A9o","action":"Call"},
+      {"hand":"K9o","action":"4-Bet as a Bluff"},
+      {"hand":"99","action":"4-Bet for Value"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"97s","action":"Call"},
+      {"hand":"A8o","action":"4-Bet as a Bluff"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"86s","action":"4-Bet as a Bluff"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"Call"},
+      {"hand":"75s","action":"4-Bet as a Bluff"},
+      {"hand":"66","action":"Call"},
+      {"hand":"65s","action":"Call"},
+      {"hand":"64s","action":"4-Bet as a Bluff"},
+      {"hand":"A5o","action":"4-Bet as a Bluff"},
+      {"hand":"55","action":"Call"},
+      {"hand":"54s","action":"4-Bet as a Bluff"},
+      {"hand":"A4o","action":"4-Bet as a Bluff"},
+      {"hand":"44","action":"Call"},
+      {"hand":"43s","action":"4-Bet as a Bluff"},
+      {"hand":"A3o","action":"4-Bet as a Bluff"},
+      {"hand":"33","action":"Call"},
+      {"hand":"22","action":"Call"}
+    ],
+    "bb": [
+      {
+        "4-Bet for Value": "5.4",
+        "4-Bet as a Bluff": "9.4",
+        "Call": "18.6",
+        "Fold": "66.7"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"4-Bet for Value"},
+      {"hand":"AJs","action":"4-Bet for Value"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"A9s","action":"Call"},
+      {"hand":"A8s","action":"Call"},
+      {"hand":"A7s","action":"Call"},
+      {"hand":"A6s","action":"Call"},
+      {"hand":"A5s","action":"Call"},
+      {"hand":"A4s","action":"Call"},
+      {"hand":"A3s","action":"Call"},
+      {"hand":"A2s","action":"Call"},
+      {"hand":"AKo","action":"4-Bet for Value"},
+      {"hand":"KK","action":"4-Bet for Value"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"KTs","action":"Call"},
+      {"hand":"K9s","action":"Call"},
+      {"hand":"K8s","action":"Call"},
+      {"hand":"K7s","action":"Call"},
+      {"hand":"K6s","action":"4-Bet as a Bluff"},
+      {"hand":"K5s","action":"4-Bet as a Bluff"},
+      {"hand":"K4s","action":"4-Bet as a Bluff"},
+      {"hand":"AQo","action":"4-Bet for Value"},
+      {"hand":"KQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"QTs","action":"Call"},
+      {"hand":"Q9s","action":"Call"},
+      {"hand":"Q8s","action":"Call"},
+      {"hand":"Q7s","action":"4-Bet as a Bluff"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"KJo","action":"Call"},
+      {"hand":"QJo","action":"Call"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"JTs","action":"Call"},
+      {"hand":"J9s","action":"Call"},
+      {"hand":"J8s","action":"Call"},
+      {"hand":"J7s","action":"4-Bet as a Bluff"},
+      {"hand":"ATo","action":"Call"},
+      {"hand":"KTo","action":"Call"},
+      {"hand":"QTo","action":"4-Bet as a Bluff"},
+      {"hand":"JTo","action":"4-Bet as a Bluff"},
+      {"hand":"TT","action":"4-Bet for Value"},
+      {"hand":"T9s","action":"Call"},
+      {"hand":"T8s","action":"Call"},
+      {"hand":"T7s","action":"Call"},
+      {"hand":"A9o","action":"Call"},
+      {"hand":"K9o","action":"4-Bet as a Bluff"},
+      {"hand":"99","action":"4-Bet for Value"},
+      {"hand":"98s","action":"Call"},
+      {"hand":"97s","action":"Call"},
+      {"hand":"A8o","action":"4-Bet as a Bluff"},
+      {"hand":"88","action":"Call"},
+      {"hand":"87s","action":"Call"},
+      {"hand":"86s","action":"4-Bet as a Bluff"},
+      {"hand":"77","action":"Call"},
+      {"hand":"76s","action":"Call"},
+      {"hand":"75s","action":"4-Bet as a Bluff"},
+      {"hand":"66","action":"Call"},
+      {"hand":"65s","action":"Call"},
+      {"hand":"64s","action":"4-Bet as a Bluff"},
+      {"hand":"A5o","action":"4-Bet as a Bluff"},
+      {"hand":"55","action":"Call"},
+      {"hand":"54s","action":"4-Bet as a Bluff"},
+      {"hand":"A4o","action":"4-Bet as a Bluff"},
+      {"hand":"44","action":"Call"},
+      {"hand":"43s","action":"4-Bet as a Bluff"},
+      {"hand":"A3o","action":"4-Bet as a Bluff"},
+      {"hand":"33","action":"Call"},
+      {"hand":"22","action":"Call"}
+    ]
+  },
+  "sb": {
+    "bb": [
+      {
+        "4-Bet for Value": "2.7",
+        "4-Bet as a Bluff": "3.9",
+        "Call": "7.4",
+        "Fold": "85.9"
+      },
+      {"hand":"AA","action":"4-Bet for Value"},
+      {"hand":"AKs","action":"4-Bet for Value"},
+      {"hand":"AQs","action":"4-Bet for Value"},
+      {"hand":"AJs","action":"4-Bet for Value"},
+      {"hand":"ATs","action":"Call"},
+      {"hand":"KQs","action":"Call"},
+      {"hand":"KJs","action":"Call"},
+      {"hand":"AQo","action":"4-Bet for Value"},
+      {"hand":"KQo","action":"Call"},
+      {"hand":"QQ","action":"4-Bet for Value"},
+      {"hand":"QJs","action":"Call"},
+      {"hand":"AJo","action":"Call"},
+      {"hand":"KJo","action":"Call"},
+      {"hand":"JJ","action":"4-Bet for Value"},
+      {"hand":"J4s","action":"4-Bet as a Bluff"},
+      {"hand":"ATo","action":"Call"},
+      {"hand":"TT","action":"Call"},
+      {"hand":"99","action":"Call"},
+      {"hand":"95s","action":"Call"},
+      {"hand":"88","action":"Call"},
+      {"hand":"85s","action":"Call"},
+      {"hand":"74s","action":"Call"},
+      {"hand":"Q5o","action":"4-Bet as a Bluff"},
+      {"hand":"Q4o","action":"4-Bet as a Bluff"},
+      {"hand":"43s","action":"Call"},
+      {"hand":"K3o","action":"4-Bet as a Bluff"},
+      {"hand":"K2o","action":"4-Bet as a Bluff"}
     ]
   }
 }

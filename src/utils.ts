@@ -20,17 +20,7 @@ export async function getPosition(player: string) {
       type: "list",
       name: "position",
       message: `What is ${player} position?`,
-      choices: [
-        "utg",
-        "utg1",
-        "utg2",
-        "lj",
-        "hj",
-        "co",
-        "button",
-        "sb",
-        "bb",
-      ],
+      choices: ["utg", "utg1", "utg2", "lj", "hj", "co", "button", "sb", "bb"],
     },
   ];
   const answers = await inquirer.prompt(position);
